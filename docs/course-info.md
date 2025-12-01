@@ -8,6 +8,7 @@
     - [Requirements](#requirements)
     - [Inclusion](#inclusion)
     - [Academic Integrity](#academic-integrity)
+    - [AI Generated Code](#ai-generated-code)
     - [Accomodations](#accomodations)
     - [Contact](#contact)
     - [Office Hours](#office-hours)
@@ -52,6 +53,9 @@ Along with the entire Department of Neuroscience, this course embraces a notion 
 
 ## Academic Integrity
 It is perfectly fine to work with your fellow students or anyone else on the homework assignments. If you do so, **you must include a note on your assignment indicating with whom you collaborated**. Any academic dishonesty such as copying a fellow students assignment without collaborating in its completion will be severly punished as outlined by the University. **Most importantly, the ability to solve problems such as those in the assignments is exactly the skillset you are here to obtain.**
+
+## AI Generated Code
+You are allowed to use prompt-generated code from large language models such as ChatGPT or anything else available to you. However, please read assignment instructions carefully. For example, if you are asked to do some work with a given dataset, and you submit code that does the correct task, but on some other auto-generated dataset, then you are liable to recieve 0 pts. Similarly, if you are asked to use a specific method as described in the course lecture, and you submit code that performs the task using some other method, you are liable to recieve 0 pts.
 
 ## Accomodations
 Students with disabilities may request appropriate academic accommodations from the Division of Diversity and Community Engagement, [Services for Students with Disabilities](http://www.utexas.edu/diversity/ddce/ssd/) (471-6259). 
