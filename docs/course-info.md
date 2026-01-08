@@ -49,7 +49,7 @@ There are no prerequisites for this course. *However, you are expected to be fam
     - have fun!
 
 ## Inclusion
-Along with the entire Department of Neuroscience, this course embraces a notion of an intellectual community enriched and enhanced by diversity along a number of dimensions, including race, ethnicity and national origins, gender and gender identity, sexuality, class, ability level, and religion. We are especially committed to fostering an environment where you feel heard and respected in your courses.
+Along with the entire Department of Neuroscience, this course embraces a notion of an intellectual community that is welcoming and inclusive, and where everyone has ample opportunity to achieve their learning goals. We are especially committed to fostering an environment where you feel heard and respected in your courses.
 
 ## Academic Integrity
 It is perfectly fine to work with your fellow students or anyone else on the homework assignments. If you do so, **you must include a note on your assignment indicating with whom you collaborated**. Any academic dishonesty such as copying a fellow students assignment without collaborating in its completion will be severly punished as outlined by the University. **Most importantly, the ability to solve problems such as those in the assignments is exactly the skillset you are here to obtain.**
